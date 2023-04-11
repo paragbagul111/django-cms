@@ -2,6 +2,23 @@
 Changelog
 =========
 
+Bug Fixes:
+----------
+* Build docs always from the current local version (#7472) (#7475) (7aaddd45a) -- Fabian Braun
+
+Statistics:
+-----------
+
+This release includes 3 pull requests, and was created with the help of the following contributors (in alphabetical order):
+
+* Fabian Braun (1 pull request)
+* Github Release Action (2 pull requests)
+
+With the review help of the following contributors:
+
+
+Thanks to all contributors for their efforts!
+
 3.11.1 (2022-12-12)
 ===================
 
