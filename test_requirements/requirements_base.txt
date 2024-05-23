@@ -18,3 +18,4 @@ mock>=2.0.0
 flake8
 isort
 pre-commit
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
