@@ -18,3 +18,4 @@ mock>=2.0.0
 flake8
 isort
 pre-commit
+django>=5.0.14 # not directly required, pinned by Snyk to avoid a vulnerability
